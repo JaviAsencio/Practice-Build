@@ -1,1 +1,10 @@
+public class FirstProject {
 
+    public static void main(String[] args) {
+
+System.out.println("This is a practice build.");
+System.out.println("That is meant to understand how to use GitHub.");
+System.out.println("Please ignore, thanks!");
+    }
+    
+}
